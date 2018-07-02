@@ -1,2 +1,5 @@
 this is a feature branch test
+<<<<<<< HEAD
 this is again a stash checkZZ
+=======
+>>>>>>> feat1
